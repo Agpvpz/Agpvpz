@@ -2,5 +2,5 @@
 - 👀 I’m interested in Programming Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me Discord: Agpvpz#6969
+- 📫 How to reach me Discord: Agpvpz#9074
 
