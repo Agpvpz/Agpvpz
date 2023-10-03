@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning Java and Python
 - Interested in Cybersecurity
 - Doing CTF in my spare time
-- 📫 How to reach me Discord: Agpvpz#9074
+- 📫 How to reach me Discord: Agpvpz
 
